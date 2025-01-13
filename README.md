@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Gouthamchary/LeetCodes/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Gouthamchary/LeetCodes/tree/master/0179-largest-number) |
 ## String
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gouthamchary/LeetCodes/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Gouthamchary/LeetCodes/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
